@@ -12,7 +12,6 @@ body {
 }
 .navigation-link {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.142;
   letter-spacing: 0.02em;
   color: #212121;
@@ -23,14 +22,12 @@ body {
 }
 .tel-link {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.142;
   letter-spacing: 0.02em;
   color: #757575;
 }
 .mail-link {
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.142;
   letter-spacing: 0.02em;
   color: #757575;
@@ -81,17 +78,12 @@ body {
 }
 .spesial {
   font-weight: bold;
-  font-size: 14px;
   line-height: 1.142;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
 }
 .spesial-text {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 14px;
   line-height: 1.714;
   letter-spacing: 0.03em;
   color: #757575;
@@ -107,7 +99,6 @@ body {
   color: #212121;
 }
 .comanda {
-  font-style: normal;
   font-weight: bold;
   font-size: 36px;
   line-height: 1.166;
@@ -149,13 +140,12 @@ body {
   color: #2196f3;
 }
 .address {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #ffffff;
+  font-style: normal;
+  font-weight: normal;
 }
 .works {
   font-weight: bold;
@@ -165,7 +155,6 @@ body {
   color: #212121;
 }
 .work-title2 {
-  font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 36px;
@@ -173,9 +162,6 @@ body {
   color: #212121;
 }
 .work-name2 {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.03em;
@@ -192,4 +178,5 @@ color: #212121;
 
 .btn-pg2:hover,
 .btn-pg2:focus {
-background-color: #2196f3;}
+background-color: #2196f3;
+color: #ffffff;}
