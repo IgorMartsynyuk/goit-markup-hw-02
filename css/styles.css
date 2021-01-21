@@ -173,6 +173,7 @@ a {
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
+  cursor: pointer;
 }
 
 .btn-portfolio:hover,
